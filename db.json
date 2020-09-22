@@ -1,0 +1,253 @@
+{
+  "themeOneTeamSection": {
+        "heading": "Our Experts",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "teamData": [
+            {
+              "id": 1,
+              "image": "/img/team_thumb_1.jpg",
+              "name": "Junaid Hasan",
+              "post": "Marketing Officer"
+            },
+            {
+              "id": 2,
+              "image": "/img/team_thumb_2.jpg",
+              "name": "Yasmin Akter",
+              "post": "SEO Expert"
+            },
+            {
+              "id": 3,
+              "image": "/img/team_thumb_3.jpg",
+              "name": "Md. Arham",
+              "post": "Media Controller"
+            },
+            {
+              "id": 4,
+              "image": "/img/team_thumb_4.jpg",
+              "name": "Jassica William",
+              "post": "Data Analyst"
+            },
+            {
+              "id": 5,
+              "image": "/img/team_thumb_5.jpg",
+              "name": "John Doe",
+              "post": "Web Developer"
+            },
+            {
+              "id": 6,
+              "image": "/img/team_thumb_6.jpg",
+              "name": "Sara Scotch",
+              "post": "Graphic Designer"
+            }
+        ]
+    },
+    "themeOneSidebarData": {
+        "widgetTitle_1": "Categories",
+        "widgetTitle_2": "Popular Post",
+        "widgetTitle_3": "Popular Tags",
+        "widgetData_1": [
+            {
+                "id": 1,
+                "title": "Web Design",
+                "content": "(14)"
+            },
+            {
+                "id": 2,
+                "title": "Digital Agency",
+                "content": "(32)"
+            },
+            {
+                "id": 3,
+                "title": "Wordpress",
+                "content": "(27)"
+            },
+            {
+                "id": 4,
+                "title": "UI Design",
+                "content": "(18)"
+            },
+            {
+                "id": 5,
+                "title": "Marketing",
+                "content": "(15)"
+            },
+            {
+                "id": 6,
+                "title": "Web Template",
+                "content": "(29)"
+            }
+        ],
+        "widgetData_2": [
+            {
+                "id": 1,
+                "image": "/img/case_studies_1.jpg",
+                "date": "05 Feb, 2020",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 2,
+                "image": "/img/case_studies_2.jpg",
+                "date": "09 Apr, 2020",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 3,
+                "image": "/img/case_studies_3.jpg",
+                "date": "13 Jul, 2020",
+                "title": "Post Tile Here"
+            },
+            {
+                "id": 4,
+                "image": "/img/case_studies_4.jpg",
+                "date": "03 Oct, 2020",
+                "title": "Post Tile Here"
+            }
+        ],
+        "widgetData_3": [
+            {
+                "id": 1,
+                "text": "Digimax"
+            },
+            {
+                "id": 2,
+                "text": "Bootstrap"
+            },
+            {
+                "id": 3,
+                "text": "Agency"
+            },
+            {
+                "id": 4,
+                "text": "Marketing"
+            },
+            {
+                "id": 5,
+                "text": "Landing Page"
+            },
+            {
+                "id": 6,
+                "text": "Business"
+            },
+            {
+                "id": 7,
+                "text": "Fashion"
+            },
+            {
+                "id": 8,
+                "text": "Media"
+            },
+            {
+                "id": 9,
+                "text": "Lifestyle"
+            },
+            {
+                "id": 10,
+                "text": "Wordpress"
+            },
+            {
+                "id": 11,
+                "text": "Web Design"
+            },
+            {
+                "id": 12,
+                "text": "SEO Marketing"
+            }
+        ]
+    },
+    "themeOneFooterSection": {
+        "footerTitle_1": "About Us",
+        "footerTitle_2": "Services",
+        "footerTitle_3": "Support",
+        "footerTitle_4": "Follow Us",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quae.",
+        "footerList_1": [
+            {
+                "id": 1,
+                "text": "Company Profile"
+            },
+            {
+                "id": 2,
+                "text": "Testimonials"
+            },
+            {
+                "id": 3,
+                "text": "Careers"
+            },
+            {
+                "id": 4,
+                "text": "Partners"
+            },
+            {
+                "id": 5,
+                "text": "Affiliate Program"
+            }
+        ],
+        "footerList_2": [
+            {
+                "id": 1,
+                "text": "Web Application"
+            },
+            {
+                "id": 2,
+                "text": "Product Management"
+            },
+            {
+                "id": 3,
+                "text": "User Interaction Design"
+            },
+            {
+                "id": 4,
+                "text": "UX Consultant"
+            },
+            {
+                "id": 5,
+                "text": "Social Media Marketing"
+            }
+        ],
+        "footerList_3": [
+            {
+                "id": 1,
+                "text": "Frequently Asked"
+            },
+            {
+                "id": 2,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 3,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 4,
+                "text": "Help Center"
+            },
+            {
+                "id": 5,
+                "text": "Contact Us"
+            }
+        ],
+        "iconList": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-facebook"
+            },
+            {
+                "id": 2,
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "iconClass": "fab fa-linkedin-in"
+            },
+            {
+                "id": 5,
+                "iconClass": "fab fa-instagram"
+            }
+        ]
+    }
+}
