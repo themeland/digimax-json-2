@@ -82,25 +82,25 @@
             {
                 "id": 1,
                 "image": "/img/case_studies_1.jpg",
-                "date": "05 Sep, 2021",
+                "date": "05 Sep, 2022",
                 "title": "Post Tile Here"
             },
             {
                 "id": 2,
                 "image": "/img/case_studies_2.jpg",
-                "date": "09 Aug, 2021",
+                "date": "09 Aug, 2022",
                 "title": "Post Tile Here"
             },
             {
                 "id": 3,
                 "image": "/img/case_studies_3.jpg",
-                "date": "13 Jul, 2021",
+                "date": "13 Jul, 2022",
                 "title": "Post Tile Here"
             },
             {
                 "id": 4,
                 "image": "/img/case_studies_4.jpg",
-                "date": "03 Oct, 2021",
+                "date": "03 Oct, 2022",
                 "title": "Post Tile Here"
             }
         ],
